@@ -62,7 +62,7 @@ weight = 4
 
 [[menu.main]]
 name = "Contactenos"
-URL = "contact-us"
+URL = "footer"
 weight = 5
 
 
