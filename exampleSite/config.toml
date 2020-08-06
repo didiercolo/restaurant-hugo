@@ -41,12 +41,12 @@ URL = "js/main.js"
 ############################## navigation ###############################
 
 [[menu.main]]
-name = "Home"
+name = "Inicio"
 URL = "hero-area"
 weight = 1
 
 [[menu.main]]
-name = "About Us"
+name = "Sobre Nosotros"
 URL = "about-us"
 weight = 2
 
@@ -56,12 +56,12 @@ URL = "blog"
 weight = 3
 
 [[menu.main]]
-name = "Price"
+name = "Nuestros Precios"
 URL = "price"
 weight = 4
 
 [[menu.main]]
-name = "Contact Us"
+name = "Contactenos"
 URL = "contact-us"
 weight = 5
 
