@@ -1,13 +1,13 @@
 ################## Hero area ##################
 hero_area:
-  enable : true
-  bg_image : "images/header.jpg"
-  overlay : true
+  enable: true
+  bg_image: "images/header.jpg"
+  overlay: true
 
 ################### Gallery ###################
 gallery:
-  enable : true
-  title : "NUESTROS PRODUCTOS"
+  enable: true
+  title: "NUESTROS PRODUCTOS"
   images:
     - "images/slider/slider-img-1.jpg"
     - "images/slider/slider-img-2.jpg"
@@ -20,60 +20,95 @@ gallery:
 
 ################ About #######################
 about:
-  enable : true
-  image : "images/cooker-img.png"
-  title : "Featured Your <span> Restaurant’s</span> Website Has To Look Good"
-  description : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in </br>voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat Ut enim ad minim veniam"
-  
+  enable: true
+  image: "images/cooker-img.png"
+  title: "Featured Your <span> Restaurant’s</span> Website Has To Look Good"
+  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in </br>voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat Ut enim ad minim veniam"
+
 ################# Blog ######################
 blog:
-  enable : true
-  title : "Nuestro <span>Blog</span>"
-  bg_image : "images/blog/blog-bg.jpg"
-  overlay : true
-
+  enable: true
+  title: "Nuestro <span>Blog</span>"
+  bg_image: "images/blog/blog-bg.jpg"
+  overlay: true
 
 ################# food Menu ################
 pricing:
-  enable : true
-  title : "Nuestros <span>PRECIOS</span>"
-  description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco"
-  subtitle : "Disponibles esta semana"
+  enable: true
+  title: "Nuestros <span>PRECIOS</span>"
+  description: ""
+  subtitle: "Disponibles esta semana"
   pricing_item:
-  - title: "Pancakes n' Such Titas"
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
-    price : "$ 125.00"
+    - title: "Queso Palmito "
+      description: ""
+      price: "₡ 3000 "
 
-  - title: "Caesar Salad"
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
-    price : "$ 100.00"
+    - title: "Pal Alba"
+      description: ""
+      price: " ₡ 3000 "
 
-  - title: "Steak with a Garlic and Parsley Risotto"
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
-    price : "$ 20.00"
+    - title: "Queso Semiduro"
+      description: " "
+      price: "₡ 3600 "
 
-  - title: "Meat of Skewers"
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
-    price : "$ 45.00"
+    - title: "Queso Semiduro S/S"
+      description: " "
+      price: "₡ 3600 "
 
-  - title: "Pancakes n' Such"
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
-    price : "$ 25.00"
+    - title: "Queso Tierno"
+      description: " "
+      price: "₡ 3600"
 
+    - title: "Queso Poroso"
+      description: " "
+      price: "₡ 3600"
+
+    - title: "Natilla"
+      description: " "
+      price: "₡ 1300"
+
+    - title: "Mantequilla"
+      description: " "
+      price: "₡ 1500"
+
+    - title: "Cangrejo"
+      description: " "
+      price: "₡ 3000"
+
+    - title: "Bizcocho"
+      description: " "
+      price: "₡ 3000"
+
+    - title: "Tortilla"
+      description: " "
+      price: "₡ 1000"
+
+    - title: "Tortilla C/Q"
+      description: " "
+      price: "₡ 3000"
+
+    - title: "Yougurt"
+      description: " "
+      price: "₡ 1300"
+
+    - title: "Queso Mozarella"
+      description: " "
+      price: "₡ 5000"
+      
 ################### Subscription ################
 subscription:
-  enable : true
-  bg_image : "images/subscribe-bg.jpg"
-  title : "SUBSCRIBE to our <span>NEWSLETTER</span>"
-  description : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
-  #Mailchimp subscription configaration 
-  form_action : "https://themefisher.us9.list-manage.com/subscribe/post?u=f95ece2732a6e9925f2e70a61&amp;id=b1e227529e"
-  formName : "b_f95ece2732a6e9925f2e70a61_b1e227529e"
-  overlay : true
+  enable: true
+  bg_image: "images/subscribe-bg.jpg"
+  title: "SUBSCRIBE to our <span>NEWSLETTER</span>"
+  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
+  #Mailchimp subscription configaration
+  form_action: "https://themefisher.us9.list-manage.com/subscribe/post?u=f95ece2732a6e9925f2e70a61&amp;id=b1e227529e"
+  formName: "b_f95ece2732a6e9925f2e70a61_b1e227529e"
+  overlay: true
 
 ################ Contact #######################
 contact:
-  enable : true
+  enable: true
   title: "Let's <span> Contact Us </span>"
   subtitle: "SIGN UP FOR EMAIL ALERTS"
-  form_action : "#" #contact form works with formspree.io
+  form_action: "#" #contact form works with formspree.io

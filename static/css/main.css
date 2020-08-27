@@ -293,14 +293,14 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
 }
 
 #about-us .block {
-  text-align: center;
+  text-align: justify;
 }
 
 #about-us .block p {
   color: #959595;
-  font-size: 16px;
+  font-size: 20px;
   line-height: 26px;
-  padding: 40px 0px;
+  padding: 10px 0px;
 }
 
 /*--
