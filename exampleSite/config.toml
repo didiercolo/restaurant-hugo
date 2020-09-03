@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Restaurant Theme By Themefisher"
+title = "Productos Luan"
 theme = "restaurant-hugo"
 summaryLength = "10"
 paginate = 4
@@ -70,8 +70,8 @@ weight = 5
 [params]
 logo = "images/logo-luan.png"
 # meta data
-author = "Themefisher"
-description = "This is meta description"
+author = "Producto Luan"
+description = "Productos Luan"
 # google analitycs ID
 google_analitycs_id = "Your ID"
 # mainSections
@@ -87,26 +87,22 @@ preloader = "" # use .png , .svg or .gif format
 ################################### Footer ############################
 [params.footer]
 enable = true
-contactInfoTitle = "CONTACT <span>INFO</span> "
-blogTitle = "LATEST <span>BLOG POSTS</span>"
-galleryTitle = "PHOTO <span>STREAM</span>"
-socialTitle = "Follow <span>US</span>"
+contactInfoTitle = "<span>CONTACTENOS</span> "
+blogTitle = "<span>BLOG POSTS</span>"
+galleryTitle = "Nuestros <span>Productos</span>"
+socialTitle = "Nuestras <span>redes</span>"
 
 ############################ footer contact item
 [[params.footer.contactItem]]
-title="Telephone"
+title="Nuestro Telefono:"
 icon = "fa fa-phone"
-content = "016742 323313"
+content = "+506 8952 6500"
 
 [[params.footer.contactItem]]
-title="Address"
+title="Nuestra Dirección"
 icon = "fa fa-map-marker"
-content = "2046 Blue Spruce Lane Laurel Canada"
+content = "Las Brisas de Zarcero, Costa Rica"
 
-[[params.footer.contactItem]]
-title="E mail"
-icon = "fa fa-envelope"
-content = "rest@gmail.com - rest@mail.ru"
 
 ######################### footer gallery
 [[params.footer.gallery]]
@@ -130,16 +126,8 @@ image = "images/slider/slider-img-2.jpg"
 ######################## Social Icon 
 [[params.footer.socialLink]]
 icon = "facebook"
-link = "https://fb.com/themefisher"
-
-[[params.footer.socialLink]]
-icon = "twitter"
-link = "https://fb.com/themefisher"
-
-[[params.footer.socialLink]]
-icon = "dribbble"
-link = "https://fb.com/themefisher"
+link = "https://www.facebook.com/quesosLuanCR"
 
 [[params.footer.socialLink]]
 icon = "instagram"
-link = "https://fb.com/themefisher"
+link = "https://www.instagram.com/productosluancr/"

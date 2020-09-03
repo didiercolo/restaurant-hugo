@@ -511,7 +511,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
   transition: .3s all;
 }
 
-#price .block .pricing-list .btn:hover {
+price .block .pricing-list .btn:hover {
   background: #ff530a;
   color: #fff;
 }

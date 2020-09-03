@@ -2,7 +2,7 @@
 <section id="footer">
 	<div class="container">
 		<div class="row">
-			<div class="col-md-4">
+			<div class="col-md-6">
 				<div class="block wow fadeInLeft" data-wow-delay="200ms">
 					<h3>{{ with site.Params.footer.contactInfoTitle }} {{ . | safeHTML }} {{ end }}</h3>
 					<div class="info">
@@ -18,7 +18,7 @@
 				</div>
 			</div>
 			<!-- .col-md-4 close -->
-			<div class="col-md-4">
+			<div class="col-md-4" style="display: none;">
 				<div class="block wow fadeInLeft" data-wow-delay="700ms">
 					<h3>{{ with site.Params.footer.blogTitle }} {{ . | safeHTML }} {{ end }}</h3>
 					<div class="blog">
@@ -35,7 +35,7 @@
 				</div>
 			</div>
 			<!-- .col-md-4 close -->
-			<div class="col-md-4">
+			<div class="col-md-6">
 				<div class="block wow fadeInLeft" data-wow-delay="1100ms">
 					<div class="gallary">
 						<h3>{{ with site.Params.footer.galleryTitle }} {{ . | safeHTML }} {{ end }}</h3>

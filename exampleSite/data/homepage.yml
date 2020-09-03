@@ -29,71 +29,84 @@ about:
 blog:
   enable: true
   title: "Nuestro <span>Blog</span>"
-  bg_image: "images/blog/blog-bg.jpg"
+  bg_image: "uploads/header.jpg"
   overlay: true
 
-################# food Menu ################
+################# Product lacteos ################
 pricing:
   enable: true
   title: "Nuestros <span>PRECIOS</span>"
-  description: ""
+  description: "Productos Lacteos"
   subtitle: "Disponibles esta semana"
   pricing_item:
-    - title: "Queso Palmito "
-      description: ""
-      price: "₡ 3000 "
+    - title: "Queso Palmito"
+      description: "1kg "
+      price: "₡ 3000"
 
-    - title: "Pal Alba"
-      description: ""
-      price: " ₡ 3000 "
+    - title: "Queso Palmito con Albahaca "
+      description: "1kg "
+      price: "₡ 3200"
+    - title: "Mantequilla 100% Casera"
+      description: "400g"
+      price: "₡ 1.500,00  "
 
-    - title: "Queso Semiduro"
-      description: " "
-      price: "₡ 3600 "
+    - title: "Natilla 100% Casera"
+      description: "500g"
+      price: " ₡ 1500"
 
-    - title: "Queso Semiduro S/S"
-      description: " "
-      price: "₡ 3600 "
+    - title: "Queso Crema"
+      description: "250g"
+      price: "₡ 1000 "
 
-    - title: "Queso Tierno"
-      description: " "
-      price: "₡ 3600"
+    - title: "Queso Madurado"
+      description: "1kg"
+      price: "₡ 6000 "
+
+    - title: "Queso Madurado chile picante"
+      description: "1kg"
+      price: "₡ 6000"
+
+    - title: "Queso Madurado hierbas Italianas"
+      description: "1kg "
+      price: "₡ 6000"
+
+    - title: "Queso Mozarela en Barra"
+      description: "1kg "
+      price: "₡ 6000"
 
     - title: "Queso Poroso"
+      description: "1kg "
+      price: "₡ 3500"
+
+    - title: "Queso Semiduro"
+      description: "1kg "
+      price: "₡ 3600"
+
+    - title: "Queso Tierno tipo Turrialba "
       description: " "
       price: "₡ 3600"
 
-    - title: "Natilla"
-      description: " "
-      price: "₡ 1300"
+    - title: "Yougurt"
+      description: "1L "
+      price: "₡ 1800"
 
-    - title: "Mantequilla"
-      description: " "
+###### HomeMade productos
+homemade:
+  enable: true
+  title: "Nuestros <span>PRECIOS</span>"
+  description: "Productos Caseros"
+  subtitle: "Disponibles esta semana"
+  pricing_item:
+    - title: "Biscochos"
+      description: "Bolsa "
       price: "₡ 1500"
 
-    - title: "Cangrejo"
-      description: " "
-      price: "₡ 3000"
-
-    - title: "Bizcocho"
-      description: " "
-      price: "₡ 3000"
-
-    - title: "Tortilla"
-      description: " "
-      price: "₡ 1000"
-
-    - title: "Tortilla C/Q"
-      description: " "
-      price: "₡ 3000"
-
-    - title: "Yougurt"
-      description: " "
-      price: "₡ 1300"
-
-    - title: "Queso Mozarella"
-      description: " "
-      price: "₡ 5000"
+    - title: "Tortillas con Queso  "
+      description: "Paquete "
+      price: "₡ 1500"
+    - title: "Tortillas de Maiz cascado "
+      description: "Paquete"
+      price: "₡ 1000  "
       
 ################### Subscription ################
 subscription:
