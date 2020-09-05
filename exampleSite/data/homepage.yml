@@ -9,7 +9,7 @@ gallery:
   enable: true
   title: "NUESTROS PRODUCTOS"
   images:
-    - "images/slider/slider-img-1.jpg"
+    - "images/slider/palmito.jpeg"
     - "images/slider/slider-img-2.jpg"
     - "images/slider/slider-img-3.jpg"
     - "images/slider/slider-img-4.jpg"

@@ -68,10 +68,10 @@ weight = 5
 
 #################### default parameters ################################
 [params]
-logo = "images/logo-luan.png"
+logo = "images/logo.png"
 # meta data
 author = "Themefisher"
-description = "This is meta description"
+description = "Productos Luan"
 # google analitycs ID
 google_analitycs_id = "Your ID"
 # mainSections
@@ -110,7 +110,7 @@ content = "rest@gmail.com - rest@mail.ru"
 
 ######################### footer gallery
 [[params.footer.gallery]]
-image = "images/slider/slider-img-1.jpg"
+image = "images/slider/palmito.jpeg"
 
 [[params.footer.gallery]]
 image = "images/slider/slider-img-2.jpg"
