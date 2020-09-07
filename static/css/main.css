@@ -913,3 +913,7 @@ price .block .pricing-list .btn:hover {
   border: 0px;
   padding: 10px 25px;
 }
+
+#hero-area .img-responsive{
+  margin: 0 auto;
+}
