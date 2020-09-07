@@ -1,7 +1,7 @@
 ---
 title: "Nuestos Quesos Fresos"
 date: 2018-12-12T04:28:21+06:00
-image: images/blog/blog-img-1.jpg
+image: images/slider/queso-2.png
 description: "Quesos Frescos"
 type: "post"
 ---
