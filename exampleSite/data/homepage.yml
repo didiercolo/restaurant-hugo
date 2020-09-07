@@ -36,11 +36,11 @@ pricing:
   subtitle: "Disponibles esta semana"
   pricing_item:
     - title: "Queso Palmito"
-      description: "1kg "
+      description: "Unidad"
       price: "₡ 3000"
 
     - title: "Queso Palmito con Albahaca "
-      description: "1kg "
+      description: "Unidad"
       price: "₡ 3200"
     - title: "Mantequilla 100% Casera"
       description: "400g"

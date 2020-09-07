@@ -917,3 +917,7 @@ price .block .pricing-list .btn:hover {
 #hero-area .img-responsive{
   margin: 0 auto;
 }
+
+.post-single-content h2{
+  padding:30px 30px  0 0;
+}
