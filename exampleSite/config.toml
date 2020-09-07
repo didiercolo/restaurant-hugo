@@ -106,22 +106,16 @@ content = "Las Brisas de Zarcero, Costa Rica"
 
 ######################### footer gallery
 [[params.footer.gallery]]
-image = "images/slider/palmito.jpeg"
+image = "images/slider/queso-1.png"
 
 [[params.footer.gallery]]
-image = "images/slider/slider-img-2.jpg"
+image = "images/slider/queso-2.png"
 
 [[params.footer.gallery]]
-image = "images/slider/slider-img-3.jpg"
+image = "images/slider/queso-3.png"
 
 [[params.footer.gallery]]
-image = "images/slider/slider-img-4.jpg"
-
-[[params.footer.gallery]]
-image = "images/slider/slider-img-1.jpg"
-
-[[params.footer.gallery]]
-image = "images/slider/slider-img-2.jpg"
+image = "images/slider/queso-4.png"
 
 ######################## Social Icon 
 [[params.footer.socialLink]]

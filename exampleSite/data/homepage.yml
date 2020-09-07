@@ -9,19 +9,15 @@ gallery:
   enable: true
   title: "NUESTROS PRODUCTOS"
   images:
-    - "images/slider/palmito.jpeg"
-    - "images/slider/slider-img-2.jpg"
-    - "images/slider/slider-img-3.jpg"
-    - "images/slider/slider-img-4.jpg"
-    - "images/slider/slider-img-1.jpg"
-    - "images/slider/slider-img-2.jpg"
-    - "images/slider/slider-img-3.jpg"
-    - "images/slider/slider-img-4.jpg"
+    - "images/slider/queso-1.png"
+    - "images/slider/queso-2.png"
+    - "images/slider/queso-3.png"
+    - "images/slider/queso-4.png"
 
 ################ About #######################
 about:
   enable: true
-  image: "images/cooker-img.png"
+  image: "images/mini-logo.png"
   title: "Featured Your <span> Restaurant’s</span> Website Has To Look Good"
   description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in </br>voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat Ut enim ad minim veniam"
 

@@ -270,6 +270,12 @@ px      68    160    252    */
   #blog .block .btn-more-info:hover {
     border-radius: 10px;
   }
+  #blog .post-img{
+    margin:auto 0;
+  }
+  #blog .post-content p{
+    font-size:14px
+  }
   /*--
     price Start
 --*/
@@ -359,5 +365,13 @@ px      68    160    252    */
   #footer-bottom .block p {
     text-align: center;
     padding-top: 0px;
+  }
+
+  .blog-single-page p{
+    font-size: 14px;
+  }
+
+  .blog-single-page h2{
+    padding: 14px 0;
   }
 }

@@ -1,7 +1,7 @@
 ---
 title: "Productos de Zarcero"
 date: 2018-12-26T11:40:41+06:00
-image: "images/blog/blog-img-2.jpg"
+image: "images/slider/queso-1.png"
 description: "Nuestros productos 100% Zarcereños"
 type: "post"
 ---
